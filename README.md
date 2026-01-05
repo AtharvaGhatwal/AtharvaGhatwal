@@ -1,6 +1,6 @@
 # Hi 👋! I'm Atharva Ghatwal
-# 💫 About Me: <br> Exploring ideas, solving problems, and building things that work.<br><br>AI & Data Science enthusiast who enjoys building practical things with code  from ML models to data projects. <br>Curious, always learning, and big on turning ideas into something real. <br>Here to build, experiment, and keep getting better 🚀<br>
-
+# 💫 About Me: 
+<br> Exploring ideas, solving problems, and building things that work.<br><br>AI & Data Science enthusiast who enjoys building practical things with code  from ML models to data projects. <br>Curious, always learning, and big on turning ideas into something real. <br>Here to build, experiment, and keep getting better 🚀<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AtharvaGhatwal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/athaaarrvaaa__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharvaghatwal1103/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/chaosdemon1311) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AtharvaGhatwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvaghatwal@gmail.com) 
