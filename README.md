@@ -1,6 +1,5 @@
 # Hi 👋! I'm Atharva Ghatwal
-# 💫 About Me:
-<br> Exploring ideas, solving problems, and building things that work.<br><br>AI & Data Science enthusiast who enjoys building practical things with code  from ML models to data projects. <br>Curious, always learning, and big on turning ideas into something real. <br>Here to build, experiment, and keep getting better 🚀<br>
+# 💫 About Me: <br> Exploring ideas, solving problems, and building things that work.<br><br>AI & Data Science enthusiast who enjoys building practical things with code  from ML models to data projects. <br>Curious, always learning, and big on turning ideas into something real. <br>Here to build, experiment, and keep getting better 🚀<br>
 
 
 ## 🌐 Socials:
